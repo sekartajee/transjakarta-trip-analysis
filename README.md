@@ -1,4 +1,4 @@
-# TransJakarta-Ridership-Exploratory-Analysis
+# TransJakarta Ridership Exploratory Analysis
 Exploratory data analysis of TransJakarta bus ridership patterns based on transactional trip data. This project focuses on understanding passenger characteristics, travel behaviour, and network usage using SQL for analysis and Power BI for visualisation.
 
 Data source: [Transjakarta - Public Transportation Transaction](https://www.kaggle.com/datasets/dikisahkan/transjakarta-transportation-transaction)
@@ -16,4 +16,4 @@ Data source: [Transjakarta - Public Transportation Transaction](https://www.kagg
 
 ## Portfolio
 A summary of the analysis and findings is available on my portfolio page:  
-[Click Here!]([https://your-portfolio-link-here](https://www.notion.so/Transjakarta-2f1f514421b880b5959cf6b837a5fbe1?source=copy_link))
+[Click Here!](https://www.notion.so/Transjakarta-2f1f514421b880b5959cf6b837a5fbe1?source=copy_link)
